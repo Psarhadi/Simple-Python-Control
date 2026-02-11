@@ -7,7 +7,7 @@ First, a short note on installing Python and VS Code for development. Any simila
 
 **B – Side-by-Side Technical Note**  
 The main PDF file that includes the side-by-side tutorial with detailed explanations.  
-[Download the PDF here](docs/Python%20MATLAB%20Tuturial.pdf)
+[Download the PDF here](docs/Python%20MATLAB%20Tuturial.pdf](https://github.com/Psarhadi/Simple-Python-Control/blob/main/Python%20MATLAB%20Tuturial.pdf)
 
 
 [**Download the PDF here**]([https://github.com/Psarhadi/Simple-Python-Control/blob/main/Python%20MATLAB%20Tuturial.pdf]
