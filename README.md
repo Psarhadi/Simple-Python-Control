@@ -1,6 +1,6 @@
 # Simple Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial
 
-This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages. Two main guides are provided:
+This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
 
 **A – Installation Guide**  
 First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.
@@ -22,7 +22,7 @@ The PDF includes examples in the following chapters:
 9. **Discrete-time control system analysis**  
 10. **Data analysis and visualisation**
 
-
+Together, these Chapters provide the essential knowledge to carry out basic tasks with equivalent proficiency in both programming languages. It assumes that the reader is already familiar with the underlying theory and MATLAB simulations for each topic.
 
 
 Results for depth tracking over Monte Carlo runs:
