@@ -34,13 +34,13 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 
 
 <p align="center">
-  <img src="images/Ex1.png" alt="Figure 2" width="30%">
+  <img src="images/Ex1.png" alt="Figure 2" width="50%">
 </p>  
 <p align="center">
-  <img src="images/Ex2.png" alt="Figure 2" width="30%">
+  <img src="images/Ex2.png" alt="Figure 2" width="60%">
 </p>  
 <p align="center">
-  <img src="images/Ex3.png" alt="Figure 2" width="30%">
+  <img src="images/Ex3.png" alt="Figure 2" width="60%">
 </p>
 
 > Feel free to use and amend the code with citation.
