@@ -43,7 +43,7 @@ Together, these Chapters provide the essential knowledge to carry out basic task
   <img src="images/Ex3.png" alt="Figure 2" width="50%">
 </p>
 
-> You can utilise the file with a citation.
+> You can utilise this guide with citation.
 
 > Author: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
 
