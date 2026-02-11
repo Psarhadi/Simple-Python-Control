@@ -8,13 +8,11 @@ This repository provides a simplified approach to learning Python for control sy
 
 **A – Installation Guide**  
 First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.
-
 [Download the Installation Guide here](Python_Visual_Studio_Code_Control_Installation_V1.pdf)
 * If you already have a Python interpreter installed, you can proceed to the next step. 
 
 **B – Side-by-Side Technical Note**  
 The main PDF file includes the side-by-side tutorial with detailed explanations.  
-
 [Download the Python MATLAB Tutorial here](Python%20MATLAB%20Tuturial.pdf)
 
 
