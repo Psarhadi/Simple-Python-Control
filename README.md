@@ -1,2 +1,52 @@
-# Simple-Python-Control
-This repo provides information about Simple-Python-Control implementation
+# Simple Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial
+
+This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages. Two main guides are provided:
+
+**A – Installation Guide**  
+First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.
+
+**B – Side-by-Side Technical Note**  
+The main PDF file that includes the side-by-side tutorial with detailed explanations.  
+[**Download the PDF here**](LINK_TO_PDF)
+
+The PDF includes examples in the following chapters:
+
+1. **Introduction**  
+2. **Basic vector and matrix manipulations**  
+3. **Basic plotting functions and visualisation**  
+4. **Classic linear control system analysis (transfer function)**  
+5. **State-space control system design and analysis**  
+6. **Control flow statements (loops and conditional statements)**  
+7. **Defining functions**  
+8. **Differential equation (nonlinear system) simulation**  
+9. **Discrete-time control system analysis**  
+10. **Data analysis and visualisation**
+
+
+
+
+Results for depth tracking over Monte Carlo runs:
+<p align="center">
+  <img src="images/MCS_z.png" alt="Figure 1" width="40%">
+</p>
+
+Final values for depth and yaw tracking:
+<p align="center">
+  <img src="images/MCS_CEP.png" alt="Figure 2" width="30%">
+</p>
+
+> Feel free to use and amend the code with citation.
+
+> Code by: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
+
+Further references:
+
+[1]  J. Enayati, P. Sarhadi, et. al., "Monte Carlo Simulation Method for Behavior Analysis of an Autonomous Underwater Vehicle", Proceedings of the IMechE, Part M: Journal of Engineering for the Maritime Environment, Aug. 2016, Vol: 230, No:3, pp: 481-490. 
+
+[2] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Adaptive integral feedback controller for pitch and yaw channels of an AUV with actuator saturations", ISA Transactions, November 2016, Vol: 65, pp: 284–295.  
+
+The AUV model/parameters are adapted from:
+
+T. Prestero, "Verification of a six degree of freedom simulation model for the REMUS autonomous under water vehicle", MIT, 2001.
+
+which belongs to the REMUS AUV.
