@@ -47,21 +47,18 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 
 > Author: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
 
-References:
-
-[1]  P. Sarhadi, "Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial", Proceedings of the IMechE, Part M: Journal of Engineering for the Maritime Environment, Aug. 2016, Vol: 230, No:3, pp: 481-490.
-
-<p>[1] P. Sarhadi, <em>Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial, Zenodo, 2026. DOI: <a href="https://doi.org/10.5281/zenodo.10.5281/zenodo.18557127">10.5281/zenodo. 10.5281/zenodo.18557127</a>. [Online]. Available: <a href="https://zenodo.org/records/18557128">https://zenodo.org/records/18557128</a></p>
+**Reference:**
+<p>[1] P. Sarhadi, <em>Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial, Zenodo, 2026. DOI: <a href="https://doi.org/10.5281/zenodo.10.5281/zenodo.18557127">10.5281/zenodo.18557127</a>. [Online]. Available: <a href="https://zenodo.org/records/18557128">https://zenodo.org/records/18557128</a></p>
 
 
 <!-- BibTeX citation -->
 <pre>
-@misc{yourlastname2026pythonmatlab,
-  author       = {Your Name},
-  title        = {Simple Python and MATLAB for Control Systems Simulation and Data Visualisation: A Side-by-Side Tutorial},
+@misc{Sarhadi2026pythonmatlab,
+  author       = {Pouria Sarhadi},
+  title        = {Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.YOUR_DOI_HERE},
-  url          = {https://zenodo.org/record/YOUR_RECORD_ID}
+  doi          = {10.5281/zenodo.18557127},
+  url          = {https://zenodo.org/records/18557128}
 }
 </pre>
