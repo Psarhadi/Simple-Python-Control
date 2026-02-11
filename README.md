@@ -7,7 +7,7 @@
 This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
 
 **A – Installation Guide**  
-First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.
+First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.  
 [Download the Installation Guide here](Python_Visual_Studio_Code_Control_Installation_V1.pdf)
 * If you already have a Python interpreter installed, you can proceed to the next step. 
 
