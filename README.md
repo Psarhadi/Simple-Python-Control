@@ -37,24 +37,31 @@ Together, these Chapters provide the essential knowledge to carry out basic task
   <img src="images/Ex1.png" alt="Figure 2" width="50%">
 </p>  
 <p align="center">
-  <img src="images/Ex2.png" alt="Figure 2" width="60%">
+  <img src="images/Ex2.png" alt="Figure 2" width="50%">
 </p>  
 <p align="center">
-  <img src="images/Ex3.png" alt="Figure 2" width="60%">
+  <img src="images/Ex3.png" alt="Figure 2" width="50%">
 </p>
 
-> Feel free to use and amend the code with citation.
+> You can utilise the file with a citation.
 
-> Code by: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
+> Author: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
 
-Further references:
+References:
 
-[1]  J. Enayati, P. Sarhadi, et. al., "Monte Carlo Simulation Method for Behavior Analysis of an Autonomous Underwater Vehicle", Proceedings of the IMechE, Part M: Journal of Engineering for the Maritime Environment, Aug. 2016, Vol: 230, No:3, pp: 481-490. 
+[1]  P. Sarhadi, "Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial", Proceedings of the IMechE, Part M: Journal of Engineering for the Maritime Environment, Aug. 2016, Vol: 230, No:3, pp: 481-490.
 
-[2] P. Sarhadi, A. Ranjbar Noei, A. Khosravi, "Adaptive integral feedback controller for pitch and yaw channels of an AUV with actuator saturations", ISA Transactions, November 2016, Vol: 65, pp: 284–295.  
+<p>[1] P. Sarhadi, <em>Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial, Zenodo, 2026. DOI: <a href="https://doi.org/10.5281/zenodo.10.5281/zenodo.18557127">10.5281/zenodo. 10.5281/zenodo.18557127</a>. [Online]. Available: <a href="https://zenodo.org/records/18557128">https://zenodo.org/records/18557128</a></p>
 
-The AUV model/parameters are adapted from:
 
-T. Prestero, "Verification of a six degree of freedom simulation model for the REMUS autonomous under water vehicle", MIT, 2001.
-
-which belongs to the REMUS AUV.
+<!-- BibTeX citation -->
+<pre>
+@misc{yourlastname2026pythonmatlab,
+  author       = {Your Name},
+  title        = {Simple Python and MATLAB for Control Systems Simulation and Data Visualisation: A Side-by-Side Tutorial},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.YOUR_DOI_HERE},
+  url          = {https://zenodo.org/record/YOUR_RECORD_ID}
+}
+</pre>
