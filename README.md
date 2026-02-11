@@ -17,7 +17,7 @@ The main PDF file includes the side-by-side tutorial with detailed explanations.
 
 
 
-The PDF includes examples in the following chapters:
+The PDF includes examples covering various control topics in the following chapters:
 
 1. **Introduction**  
 2. **Basic vector and matrix manipulations**  
@@ -33,10 +33,7 @@ The PDF includes examples in the following chapters:
 Together, these Chapters provide the essential knowledge to carry out basic tasks with equivalent proficiency in both programming languages. It assumes that the reader is already familiar with the underlying theory and MATLAB simulations for each topic.
 
 
-Results for depth tracking over Monte Carlo runs:
 
-
-Final values for depth and yaw tracking:
 <p align="center">
   <img src="images/MCS_CEP.png" alt="Figure 2" width="30%">
 </p>
