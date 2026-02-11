@@ -53,7 +53,7 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 
 <!-- BibTeX citation -->
 ```bibtex
-@misc{Sarhadi2026pythonmatlab,
+@paper{Sarhadi2026pythonmatlab,
   author       = {Pouria Sarhadi},
   title        = {Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial},
   year         = {2026},
