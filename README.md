@@ -1,14 +1,18 @@
 # Simple Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial
-
+<p align="center">
+  <img src="Front_page.png" alt="Figure 1" width="40%">
+</p>
 This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
 
 **A – Installation Guide**  
 First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.
+
 [Download the Installation Guide here](Python_Visual_Studio_Code_Control_Installation_V1.pdf)
 * If you already have a Python interpreter installed, you can proceed to the next step. 
 
 **B – Side-by-Side Technical Note**  
 The main PDF file includes the side-by-side tutorial with detailed explanations.  
+
 [Download the Python MATLAB Tutorial here](Python%20MATLAB%20Tuturial.pdf)
 
 
@@ -30,9 +34,7 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 
 
 Results for depth tracking over Monte Carlo runs:
-<p align="center">
-  <img src="images/MCS_z.png" alt="Figure 1" width="40%">
-</p>
+
 
 Final values for depth and yaw tracking:
 <p align="center">
