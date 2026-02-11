@@ -1,6 +1,5 @@
-<center>
-# Simple Python and MATLAB for Control Systems Simulation and Data Visualisation: A Side-by-Side Tutorial
-</center>
+<h1 align="center">Simple Python and MATLAB for Control Systems Simulation and Data Visualisation: A Side-by-Side Tutorial</h1>
+
 
 <p align="center">
   <img src="Front_page.png" alt="Figure 1" width="40%">
