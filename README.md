@@ -4,7 +4,7 @@
 <p align="center">
   <img src="images\Front_page.png" alt="Figure 1" width="40%">
 </p>
-This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
+This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel side-by-side approach to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
 
 **A – Installation Guide**  
 First, a short note on installing Python and VS Code for development. Any similar IDE, such as Google Colab, can be used instead.  
