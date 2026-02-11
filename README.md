@@ -33,9 +33,14 @@ The PDF includes examples covering various control topics in the following chapt
 Together, these Chapters provide the essential knowledge to carry out basic tasks with equivalent proficiency in both programming languages. It assumes that the reader is already familiar with the underlying theory and MATLAB simulations for each topic.
 
 
-
 <p align="center">
-  <img src="images/MCS_CEP.png" alt="Figure 2" width="30%">
+  <img src="images/Ex1.png" alt="Figure 2" width="30%">
+</p>  
+<p align="center">
+  <img src="images/Ex2.png" alt="Figure 2" width="30%">
+</p>  
+<p align="center">
+  <img src="images/Ex3.png" alt="Figure 2" width="30%">
 </p>
 
 > Feel free to use and amend the code with citation.
