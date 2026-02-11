@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Front_page.png" alt="Figure 1" width="40%">
+  <img src="images\Front_page.png" alt="Figure 1" width="40%">
 </p>
 This repository provides a simplified approach to learning Python for control system simulation and data visualisation for engineers and researchers coming from a MATLAB background. It uses a novel **side-by-side approach** to achieve a similar level of proficiency in both programming languages for basic tasks. Two main guides are provided:
 
