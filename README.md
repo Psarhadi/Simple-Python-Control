@@ -52,7 +52,7 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 
 
 <!-- BibTeX citation -->
-<pre>
+```bibtex
 @misc{Sarhadi2026pythonmatlab,
   author       = {Pouria Sarhadi},
   title        = {Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial},
@@ -61,4 +61,4 @@ Together, these Chapters provide the essential knowledge to carry out basic task
   doi          = {10.5281/zenodo.18557127},
   url          = {https://zenodo.org/records/18557128}
 }
-</pre>
+```
