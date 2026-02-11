@@ -48,7 +48,7 @@ Together, these Chapters provide the essential knowledge to carry out basic task
 > Author: [Pouria Sarhadi](https://go.herts.ac.uk/pouria-sarhadi).
 
 **Reference:**
-<p>[1] P. Sarhadi, <em>Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial, Zenodo, 2026. DOI: <a href="https://doi.org/10.5281/zenodo.10.5281/zenodo.18557127">10.5281/zenodo.18557127</a>. [Online]. Available: <a href="https://zenodo.org/records/18557128">https://zenodo.org/records/18557128</a></p>
+<p>[1] P. Sarhadi, <em>Python and MATLAB for Control Systems Simulation: A Side-by-Side Tutorial, Zenodo, 2026. DOI: <a href="https://doi.org/10.5281/zenodo.18557127">10.5281/zenodo.18557127</a>. [Online]. Available: <a href="https://zenodo.org/records/18557128">https://zenodo.org/records/18557128</a></p>
 
 
 <!-- BibTeX citation -->
